@@ -31,6 +31,3 @@ describe('Testing file reader module', () => {
   });
 });
 //test promises
-describe('Testing file reader module for promises' () => {
-
-})
